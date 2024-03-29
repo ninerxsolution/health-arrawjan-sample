@@ -1,0 +1,141 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: rgb(242, 244, 248);
+}
+
+.navbar {
+    background-color: #005EAA !important;
+}
+
+.banner-head {
+    background-image: url('/assets/img/health-cover-bg.png');
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.arrawjan-body {
+    margin-top: 135px;
+    margin-bottom: 213px;
+}
+
+.text-h2 {
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.text-h3 {
+    font-size: 48px;
+}
+
+.text-h4 {
+    font-size: 36px;
+}
+
+.text-kb-primary {
+    color: #005EAA;
+}
+
+.text-kb-info {
+    color: #00ACEA;
+}
+
+.text-kb-warning {
+    color: #FF8100;
+}
+
+.btn-kb-waning {
+    background-color: #FF8100;
+    color: white;
+    padding: 10px 25px;
+}
+
+.btn-kb-outline-waning {
+    border: #FF8100 solid 1px;
+    color: #FF8100;
+    padding: 10px 25px;
+}
+
+.insurance-body {
+    margin-top: 150px;
+    margin-bottom: 90px;
+}
+
+.insurance-desc {
+    margin-top: 50px;
+}
+
+.pt-card {
+    margin-top: 50px;
+    max-width: 270px;
+}
+
+.desc {
+    margin-top: 30px;
+}
+
+.protect-card {
+    margin-bottom: 50px;
+}
+
+.package-banner {
+    background-image: url('/assets/img/health-cover-bg-02.png');
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.package-body {
+    margin-top: 105px;
+}
+
+.package-desc {
+    margin-top: 88px;
+    margin-bottom: 80px;
+}
+
+.table-kb-warning {
+    background-color: #FF8100 !important;
+}
+
+.table-benefits {
+    margin-top: 120px;
+    margin-bottom: 150px;
+}
+
+.tb-benefits thead tr th {
+    background-color: #FF8100;
+    color: white;
+}
+
+.btn-kb-collapse-info {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 25px 36px;
+    font-size: 20px;
+    background-color: white;
+    margin-bottom: 20px;
+}
+
+.faqs-body {
+    margin-bottom: 144px;
+}
+
+footer {
+    background-image: url('/assets/img/footer-bg.png');
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 74px 0px 10px 0px;
+}
+
+/* 
+.tb-benefits tbody tr td {
+    border: #E0E0E0 solid 1px;
+}
+
+.tb-benefits tbody tr th {
+    border: #E0E0E0 solid 1px;
+} */
